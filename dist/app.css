@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: orange;
+  color: red;
+  padding: 10px;
+  border: 1px solid orange;
+}
+
+main {
+  padding: 10px;
+}
+
